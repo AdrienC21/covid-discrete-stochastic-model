@@ -16,11 +16,11 @@ Using a model based on Markov chains has several advantages. For example, such a
 ### Model
 
 <p align="center">
-  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-1.png" width="350">
-  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-2.png" width="350">
-  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-3.png" width="350">
-  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-4.png" width="350">
-  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-5.png" width="350">
+  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-1.png" width="700">
+  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-2.png" width="700">
+  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-3.png" width="700">
+  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-4.png" width="700">
+  <img src="https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/main/images/model-5.png" width="700">
 </p>
 
 
