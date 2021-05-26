@@ -69,14 +69,14 @@ Run run_optimizer.py to obtain alpha, beta and gamma using optimization methods.
 
 ### utils.py
 
-[extract_data]()
+[extract_data](https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/a06d577a9fde6a02e561b8c7d606ebaffa7835ee/utils.py#L12)
 ```python
 country = "France"
 L = extract_data(country)
 ```
 Extract the data corresponding to one country (number of infected individuals, dead people and cured ones). Sort by date.
 
-[calculate_transition_matrix]()
+[calculate_transition_matrix](https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/a06d577a9fde6a02e561b8c7d606ebaffa7835ee/utils.py#L32)
 ```python
 N = 700  # total population
 delta_t = 10  # time step in seconds
@@ -87,14 +87,14 @@ M = calculate_transition_matrix(alpha, beta, gamma, delta_t, N)
 ```
 Return the transition matrix of the model.
 
-[predict]()
+[predict](https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/a06d577a9fde6a02e561b8c7d606ebaffa7835ee/utils.py#L62)
 ```python
 x = np.array([alpha, beta, gamma])
 prediction_array = predict(x)
 ```
 Predict the number of infected people at each timestamp.
 
-[f]()
+[f](https://github.com/AdrienC21/covid-discrete-stochastic-model/blob/a06d577a9fde6a02e561b8c7d606ebaffa7835ee/utils.py#L92)
 ```python
 x = np.array([alpha, beta, gamma])
 MSE = f(x)
