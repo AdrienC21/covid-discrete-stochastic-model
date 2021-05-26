@@ -11,7 +11,7 @@ The data have been extracted from the database [coronavirus.politologue](https:/
 The model is a modified version of an already existing model first introduced in a [paper written by Hugo Falconet and Antoine Jego](http://www.math.ens.fr/enseignement/telecharger_fichier.php?fichier=1693).
 
 
-Using a model based on Markov chains has several advantages. For example, such a model is **not determinist** which allows us to take into account fluctuations regarding contamination, propagation, incubation time, etc ...
+Using a model based on Markov chains has several advantages. For example, such a model is **not deterministic** which allows us to take into account fluctuations regarding contamination, propagation, incubation time, etc ...
 
 ### Model
 
