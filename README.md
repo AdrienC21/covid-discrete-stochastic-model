@@ -15,7 +15,6 @@ Using a model based on Markov chains has several advantages. For example, such a
 
 ### Model
 
-![hustlin_erd](pdf/model.pdf)
 
 ## Installation
 
